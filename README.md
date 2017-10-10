@@ -21,3 +21,4 @@ Run the following:
 
 4.You are ready and do npm start or node index.js
 -------------
+![Screenshot](https://i.imgur.com/6jTIYnz.jpg)
