@@ -1,0 +1,31 @@
+{
+  "name": "party.dj",
+  "version": "0.0.1",
+  "description": "Copyright (C) Ciker (Nikita Sibul) - All Rights Reserved",
+  "author": "Ciker <microfix12520022@gmail.com>",
+  "contributors": [
+    {
+      "name": "Ciker",
+      "email": "microfix12520022@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "colors": "*",
+    "dateformat": "*",
+    "express": "*",
+    "image-size": "*",
+    "md5": "*",
+    "node-uuid": "*",
+    "passport": "*",
+    "raygun": "^0.9.1",
+    "sanitize-html": "*",
+    "websocket": "*",
+	"express-ipfilter": "*",
+    "ws": "*"
+  },
+  "license": "Copyright (C) Ciker (Nikita Sibul) - All Rights Reserved",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}

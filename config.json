@@ -1,0 +1,52 @@
+{
+    "sport": 8080,
+    "port": 80,
+    "host": "localhost",
+    "cdn": "localhost",
+    "server": "localhost",
+    "motd": "Party DJ",
+    "theme": "2k14def",
+    "whitelist": false,
+    "ips": "",
+	"maintenance": false,
+	"ogdesc": "Join a party. Be a DJ. Or just listen. Enjoy music together and chat with people from around the world right now.",
+	"keywords": "party dj,(party mix) - dj bl3nd скачать,3 djs party,3 house party dj antoine,80's party dj,80's party dj playlist,80er party dj playlist,80s party dj mix,80s party dj set,90er party dj",
+	"icon": "https://i.imgur.com/n0iieZP.png",
+	"locale": "en-US",
+	"ogimage": "https://i.imgur.com/yaFmfOe.png",
+	"fb": "https://facebook.com/partydjwoot",
+	"twitter": "https://twitter.com/partydjofficial",
+	"twusername": "PartyDJOfficial",
+    "APIYT": "AIzaSyC6RhakTlNf7CDgH03bEls0cR73ZUIqGYI",
+	"APIRECAPTCHA": "6LdynAsUAAAAAH2TSIFJ2Q4sKVPq77M0dHAnaQEA",
+	"background": "http://stg.partydj.ml/_/static/images/pdj.png",
+	"frame": "http://stg.partydj.ml/_/static/images/window.png",
+    "tw": "",
+	"banip": "",
+    "version": "1.6.2",
+    "debug": true,
+	"theme": {
+		"frameh": null,
+		"framew": null
+	},
+    "xp": {    
+        "advance": 1,
+        "woot": 4,
+        "dj": 8
+    },
+    "alg": "//level * 2 + x",
+    "pp": {   
+        "advance": 3,
+        "woot": 5,
+        "dj": 20
+    },
+    "news": [ {
+        "desc": "Welcome to Party DJ",
+        "title": "Welcome to Party DJ",
+        "href": ""
+    },{
+        "desc": "Welcome to Party DJ",
+        "title": "Welcome to Party DJ",
+        "href": ""
+    }]
+}
