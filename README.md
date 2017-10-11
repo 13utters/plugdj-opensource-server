@@ -5,7 +5,7 @@
 
 Host your own plug.dj!
 
-**NOTE:** Currently not supporting Facebook login.
+**NOTE:** If you need help with setup contact me via email:microfix1252002@gmail.com.
 
 ## How to use
 Run the following:
